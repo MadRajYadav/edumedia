@@ -1,0 +1,6 @@
+ERROR | 2023-09-01 01:54:00 | [http-nio-8080-exec-7] edumedia.UsersRepo (UsersRepo.java:33) - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ERROR | 2023-09-01 01:55:19 | [http-nio-8080-exec-13] edumedia.UsersRepo (UsersRepo.java:33) - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ERROR | 2023-09-01 19:22:19 | [http-nio-8080-exec-1] edumedia.UsersRepo (UsersRepo.java:35) - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ERROR | 2023-09-01 19:38:06 | [http-nio-8080-exec-40] edumedia.UsersRepo (UsersRepo.java:33) - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ERROR | 2023-09-01 19:51:10 | [http-nio-8080-exec-55] edumedia.UsersRepo (UsersRepo.java:33) - java.sql.SQLException: Access denied for user 'root1'@'localhost' (using password: NO)
+ERROR | 2023-09-01 19:51:10 | [http-nio-8080-exec-55] edumedia.UsersRepo (UsersRepo.java:115) - java.lang.NullPointerException: Cannot invoke "java.sql.Connection.createStatement()" because "this.con" is null
